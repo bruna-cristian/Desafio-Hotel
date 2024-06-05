@@ -1,0 +1,14 @@
+C:\Projetos\DesafioHotel\bin\Debug\net8.0\DesafioHotel.exe
+C:\Projetos\DesafioHotel\bin\Debug\net8.0\DesafioHotel.deps.json
+C:\Projetos\DesafioHotel\bin\Debug\net8.0\DesafioHotel.runtimeconfig.json
+C:\Projetos\DesafioHotel\bin\Debug\net8.0\DesafioHotel.dll
+C:\Projetos\DesafioHotel\bin\Debug\net8.0\DesafioHotel.pdb
+C:\Projetos\DesafioHotel\obj\Debug\net8.0\DesafioHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesafioHotel\obj\Debug\net8.0\DesafioHotel.AssemblyInfoInputs.cache
+C:\Projetos\DesafioHotel\obj\Debug\net8.0\DesafioHotel.AssemblyInfo.cs
+C:\Projetos\DesafioHotel\obj\Debug\net8.0\DesafioHotel.csproj.CoreCompileInputs.cache
+C:\Projetos\DesafioHotel\obj\Debug\net8.0\DesafioHotel.dll
+C:\Projetos\DesafioHotel\obj\Debug\net8.0\refint\DesafioHotel.dll
+C:\Projetos\DesafioHotel\obj\Debug\net8.0\DesafioHotel.pdb
+C:\Projetos\DesafioHotel\obj\Debug\net8.0\DesafioHotel.genruntimeconfig.cache
+C:\Projetos\DesafioHotel\obj\Debug\net8.0\ref\DesafioHotel.dll
